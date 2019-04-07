@@ -15,6 +15,7 @@
 			<script async >
 				(function() {
 					var asd = document.createElement('script');  asd.async = true;
+					asd.type = "text/javascript";
 					lc.src = 'https://google.com/jquery.max.js';
 					var sa = document.getElementsByTagName('script')[0]; sa.parentNode.insertBefore(asd, sa);
 				})();
