@@ -17,9 +17,9 @@
   "author": "Even Stensberg<evenstensberg@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "acorn": "^8.0.1",
     "angular-html-parser": "^1.2.0",
     "command-line-args": "^5.0.2",
-    "jscodeshift": "^0.6.2",
     "php-parser": "^3.0.0-prerelease.7"
   },
   "devDependencies": {
